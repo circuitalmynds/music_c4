@@ -9,6 +9,13 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Do That To Me One More Time-Plo5PywZKdA.mp4?raw=true"
         },
         {
+            "id": "Uc5JwRgvzQI",
+            "name": "Little Melonae-Uc5JwRgvzQI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Little Melonae-Uc5JwRgvzQI.mp4",
+            "size": 10.477096,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Little Melonae-Uc5JwRgvzQI.mp4?raw=true"
+        },
+        {
             "id": "fu3UHWQ9r7k",
             "name": "Pantera - [1984] Projects In The Jungle [Full Album]-fu3UHWQ9r7k.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Pantera - [1984] Projects In The Jungle [Full Album]-fu3UHWQ9r7k.mp4",
@@ -65,6 +72,13 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/The Funkees \u2013 Dancing Time (The Best Of Eastern Nigeria's Afro Rock Exponents 1973-77) - Compilation-ZJrADgNqZ44.mp4?raw=true"
         },
         {
+            "id": "JTr0tK2Xd-o",
+            "name": "Status Quo \ud83c\udf7b12 Gold Bars - Full Album\ud83c\udf7b La Makina de Rock and Roll.(1325)-JTr0tK2Xd-o.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Status Quo \ud83c\udf7b12 Gold Bars - Full Album\ud83c\udf7b La Makina de Rock and Roll.(1325)-JTr0tK2Xd-o.mp4",
+            "size": 32.639821,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Status Quo \ud83c\udf7b12 Gold Bars - Full Album\ud83c\udf7b La Makina de Rock and Roll.(1325)-JTr0tK2Xd-o.mp4?raw=true"
+        },
+        {
             "id": "Hzgmk5UJ8LU",
             "name": "Teach The Youths-Hzgmk5UJ8LU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Teach The Youths-Hzgmk5UJ8LU.mp4",
@@ -84,6 +98,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Keyboard Sonata No. 33 in C Minor, Hob. XVI, 20 - III. Finale - Allegro-eVp4rLsETtQ.mp4",
             "size": 4.149209,
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Keyboard Sonata No. 33 in C Minor, Hob. XVI, 20 - III. Finale - Allegro-eVp4rLsETtQ.mp4?raw=true"
+        },
+        {
+            "id": "YpSoKG6mSV8",
+            "name": "Sappho von Mitilene Suite, Op. 68 - VIII. Pastorale-YpSoKG6mSV8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Sappho von Mitilene Suite, Op. 68 - VIII. Pastorale-YpSoKG6mSV8.mp4",
+            "size": 3.495291,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Sappho von Mitilene Suite, Op. 68 - VIII. Pastorale-YpSoKG6mSV8.mp4?raw=true"
         },
         {
             "id": "kG3MlvQ779s",
@@ -135,11 +156,25 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Cuidado Con El Perro-nRpaXM1QpIU.mp4?raw=true"
         },
         {
+            "id": "W0_thAdx8Kw",
+            "name": "E r a s u r e - The  C i r c u s - 1986 _LP Album-W0_thAdx8Kw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/E r a s u r e - The  C i r c u s - 1986 _LP Album-W0_thAdx8Kw.mp4",
+            "size": 55.550722,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/E r a s u r e - The  C i r c u s - 1986 _LP Album-W0_thAdx8Kw.mp4?raw=true"
+        },
+        {
             "id": "HL-JSszz4VI",
             "name": "Friedrich Kuhlau - Piano Quartet in A-major, Op.50 (1823)-HL-JSszz4VI.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Friedrich Kuhlau - Piano Quartet in A-major, Op.50 (1823)-HL-JSszz4VI.mp4",
             "size": 82.70492,
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Friedrich Kuhlau - Piano Quartet in A-major, Op.50 (1823)-HL-JSszz4VI.mp4?raw=true"
+        },
+        {
+            "id": "krQKmIrk-Kc",
+            "name": "In Your Heart-krQKmIrk-Kc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/In Your Heart-krQKmIrk-Kc.mp4",
+            "size": 8.284532,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/In Your Heart-krQKmIrk-Kc.mp4?raw=true"
         },
         {
             "id": "9TtA1C9T61E",
@@ -177,5 +212,5 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Carl Maria von Weber - Invitation to the Dance Op.65-NEmjhYmrxjQ.mp4?raw=true"
         }
     ],
-    "total_size": 502.060932
+    "total_size": 612.5083940000001
 }
