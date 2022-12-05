@@ -30,6 +30,13 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/La Foule-o2Tz1yV48NQ.mp4?raw=true"
         },
         {
+            "id": "0SoFXbQacWQ",
+            "name": "Cabaret Voltaire - Live At 'La Edad De Oro' (1983)-0SoFXbQacWQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Cabaret Voltaire - Live At 'La Edad De Oro' (1983)-0SoFXbQacWQ.mp4",
+            "size": 94.446714,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Cabaret Voltaire - Live At 'La Edad De Oro' (1983)-0SoFXbQacWQ.mp4?raw=true"
+        },
+        {
             "id": "hXtZmqzsoyw",
             "name": "Consider Me Dub Vocal Alt-hXtZmqzsoyw.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Consider Me Dub Vocal Alt-hXtZmqzsoyw.mp4",
@@ -63,6 +70,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Gershwin - Cuban Overture-mC8xYHGnkuw.mp4",
             "size": 8.30076,
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Gershwin - Cuban Overture-mC8xYHGnkuw.mp4?raw=true"
+        },
+        {
+            "id": "X3-7-DZ0XXU",
+            "name": "Nina Hagen - 1990 Lili Marlene (vs Nana Mouskouri)-X3-7-DZ0XXU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Nina Hagen - 1990 Lili Marlene (vs Nana Mouskouri)-X3-7-DZ0XXU.mp4",
+            "size": 15.695013999999999,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Nina Hagen - 1990 Lili Marlene (vs Nana Mouskouri)-X3-7-DZ0XXU.mp4?raw=true"
         },
         {
             "id": "ZJrADgNqZ44",
@@ -112,6 +126,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Masayoshi Takanaka - Seychelles (1976) Album-kG3MlvQ779s.mp4",
             "size": 51.555735999999996,
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Masayoshi Takanaka - Seychelles (1976) Album-kG3MlvQ779s.mp4?raw=true"
+        },
+        {
+            "id": "eWxQTJF4I9M",
+            "name": "Finale Ultimo-eWxQTJF4I9M.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Finale Ultimo-eWxQTJF4I9M.mp4",
+            "size": 1.467806,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Finale Ultimo-eWxQTJF4I9M.mp4?raw=true"
         },
         {
             "id": "lDiWKaOe0UM",
@@ -177,6 +198,20 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/In Your Heart-krQKmIrk-Kc.mp4?raw=true"
         },
         {
+            "id": "7AUZckH333g",
+            "name": "La Habanera (Remastered)-7AUZckH333g.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/La Habanera (Remastered)-7AUZckH333g.mp4",
+            "size": 3.6298179999999998,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/La Habanera (Remastered)-7AUZckH333g.mp4?raw=true"
+        },
+        {
+            "id": "4SdmOmsqKR4",
+            "name": "El Ni\u00f1o Yuntero-4SdmOmsqKR4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/El Ni\u00f1o Yuntero-4SdmOmsqKR4.mp4",
+            "size": 5.679037999999999,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/El Ni\u00f1o Yuntero-4SdmOmsqKR4.mp4?raw=true"
+        },
+        {
             "id": "9TtA1C9T61E",
             "name": "Fr\u00e9d\u00e9ric Chopin - Polonaise Militaire \u2013 Thailand Phil \u2013 Alfonso Scarano-9TtA1C9T61E.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Fr\u00e9d\u00e9ric Chopin - Polonaise Militaire \u2013 Thailand Phil \u2013 Alfonso Scarano-9TtA1C9T61E.mp4",
@@ -212,5 +247,5 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Carl Maria von Weber - Invitation to the Dance Op.65-NEmjhYmrxjQ.mp4?raw=true"
         }
     ],
-    "total_size": 612.5083940000001
+    "total_size": 733.4267840000001
 }
