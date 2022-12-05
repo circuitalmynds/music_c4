@@ -1,5 +1,55 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "Plo5PywZKdA",
+            "name": "Do That To Me One More Time-Plo5PywZKdA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Do That To Me One More Time-Plo5PywZKdA.mp4",
+            "size": 2.26653,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Do That To Me One More Time-Plo5PywZKdA.mp4?raw=true"
+        },
+        {
+            "id": "fu3UHWQ9r7k",
+            "name": "Pantera - [1984] Projects In The Jungle [Full Album]-fu3UHWQ9r7k.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Pantera - [1984] Projects In The Jungle [Full Album]-fu3UHWQ9r7k.mp4",
+            "size": 64.023285,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Pantera - [1984] Projects In The Jungle [Full Album]-fu3UHWQ9r7k.mp4?raw=true"
+        },
+        {
+            "id": "hXtZmqzsoyw",
+            "name": "Consider Me Dub Vocal Alt-hXtZmqzsoyw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Consider Me Dub Vocal Alt-hXtZmqzsoyw.mp4",
+            "size": 4.998926,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Consider Me Dub Vocal Alt-hXtZmqzsoyw.mp4?raw=true"
+        },
+        {
+            "id": "goS4yan1AGM",
+            "name": "Elias Parish Alvars - Harp Concerto in E-flat major, Op.98 (1845)-goS4yan1AGM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Elias Parish Alvars - Harp Concerto in E-flat major, Op.98 (1845)-goS4yan1AGM.mp4",
+            "size": 35.322226,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Elias Parish Alvars - Harp Concerto in E-flat major, Op.98 (1845)-goS4yan1AGM.mp4?raw=true"
+        },
+        {
+            "id": "Hzgmk5UJ8LU",
+            "name": "Teach The Youths-Hzgmk5UJ8LU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Teach The Youths-Hzgmk5UJ8LU.mp4",
+            "size": 4.1203009999999995,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Teach The Youths-Hzgmk5UJ8LU.mp4?raw=true"
+        },
+        {
+            "id": "3pcRYXCajqI",
+            "name": "Liszt - Concerto Path\u00e9tique in E minor - 3. Allegro-3pcRYXCajqI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Liszt - Concerto Path\u00e9tique in E minor - 3. Allegro-3pcRYXCajqI.mp4",
+            "size": 5.786161,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Liszt - Concerto Path\u00e9tique in E minor - 3. Allegro-3pcRYXCajqI.mp4?raw=true"
+        },
+        {
+            "id": "5SD4lI9GKUE",
+            "name": "Deacon Blue - Real Gone Kid (Official Video)-5SD4lI9GKUE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Deacon Blue - Real Gone Kid (Official Video)-5SD4lI9GKUE.mp4",
+            "size": 14.839616999999999,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Deacon Blue - Real Gone Kid (Official Video)-5SD4lI9GKUE.mp4?raw=true"
+        }
+    ],
+    "total_size": 131.357046
 }
