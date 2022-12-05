@@ -44,6 +44,13 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Keyboard Sonata No. 8 in A Major, Hob. XVI, 5 - II. Menuet-XeC9vTvym10.mp4?raw=true"
         },
         {
+            "id": "3uhL7Fn3az4",
+            "name": "Keyboard Sonata No. 3 in F Major, Hob. XVI, 9 - III. Scherzo-3uhL7Fn3az4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Keyboard Sonata No. 3 in F Major, Hob. XVI, 9 - III. Scherzo-3uhL7Fn3az4.mp4",
+            "size": 0.722213,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Keyboard Sonata No. 3 in F Major, Hob. XVI, 9 - III. Scherzo-3uhL7Fn3az4.mp4?raw=true"
+        },
+        {
             "id": "mC8xYHGnkuw",
             "name": "Gershwin - Cuban Overture-mC8xYHGnkuw.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Gershwin - Cuban Overture-mC8xYHGnkuw.mp4",
@@ -128,6 +135,20 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Cuidado Con El Perro-nRpaXM1QpIU.mp4?raw=true"
         },
         {
+            "id": "HL-JSszz4VI",
+            "name": "Friedrich Kuhlau - Piano Quartet in A-major, Op.50 (1823)-HL-JSszz4VI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Friedrich Kuhlau - Piano Quartet in A-major, Op.50 (1823)-HL-JSszz4VI.mp4",
+            "size": 82.70492,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Friedrich Kuhlau - Piano Quartet in A-major, Op.50 (1823)-HL-JSszz4VI.mp4?raw=true"
+        },
+        {
+            "id": "9TtA1C9T61E",
+            "name": "Fr\u00e9d\u00e9ric Chopin - Polonaise Militaire \u2013 Thailand Phil \u2013 Alfonso Scarano-9TtA1C9T61E.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Fr\u00e9d\u00e9ric Chopin - Polonaise Militaire \u2013 Thailand Phil \u2013 Alfonso Scarano-9TtA1C9T61E.mp4",
+            "size": 21.502052,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Fr\u00e9d\u00e9ric Chopin - Polonaise Militaire \u2013 Thailand Phil \u2013 Alfonso Scarano-9TtA1C9T61E.mp4?raw=true"
+        },
+        {
             "id": "tkNh8-YE6Fk",
             "name": "Wolfgang Amadeus Mozart - Symphony No.25 in G minor, KV.183_173dB (1773)-tkNh8-YE6Fk.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Wolfgang Amadeus Mozart - Symphony No.25 in G minor, KV.183_173dB (1773)-tkNh8-YE6Fk.mp4",
@@ -147,7 +168,14 @@
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Liszt - Totentanz, S. 525-G2nIDKY6zJY.mp4",
             "size": 9.826172999999999,
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Liszt - Totentanz, S. 525-G2nIDKY6zJY.mp4?raw=true"
+        },
+        {
+            "id": "NEmjhYmrxjQ",
+            "name": "Carl Maria von Weber - Invitation to the Dance Op.65-NEmjhYmrxjQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Carl Maria von Weber - Invitation to the Dance Op.65-NEmjhYmrxjQ.mp4",
+            "size": 11.189461999999999,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Carl Maria von Weber - Invitation to the Dance Op.65-NEmjhYmrxjQ.mp4?raw=true"
         }
     ],
-    "total_size": 385.94228499999997
+    "total_size": 502.060932
 }
