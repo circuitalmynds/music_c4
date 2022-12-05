@@ -16,6 +16,13 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Pantera - [1984] Projects In The Jungle [Full Album]-fu3UHWQ9r7k.mp4?raw=true"
         },
         {
+            "id": "o2Tz1yV48NQ",
+            "name": "La Foule-o2Tz1yV48NQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/La Foule-o2Tz1yV48NQ.mp4",
+            "size": 3.286847,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/La Foule-o2Tz1yV48NQ.mp4?raw=true"
+        },
+        {
             "id": "hXtZmqzsoyw",
             "name": "Consider Me Dub Vocal Alt-hXtZmqzsoyw.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Consider Me Dub Vocal Alt-hXtZmqzsoyw.mp4",
@@ -37,6 +44,27 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Teach The Youths-Hzgmk5UJ8LU.mp4?raw=true"
         },
         {
+            "id": "eVp4rLsETtQ",
+            "name": "Keyboard Sonata No. 33 in C Minor, Hob. XVI, 20 - III. Finale - Allegro-eVp4rLsETtQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Keyboard Sonata No. 33 in C Minor, Hob. XVI, 20 - III. Finale - Allegro-eVp4rLsETtQ.mp4",
+            "size": 4.149209,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Keyboard Sonata No. 33 in C Minor, Hob. XVI, 20 - III. Finale - Allegro-eVp4rLsETtQ.mp4?raw=true"
+        },
+        {
+            "id": "kG3MlvQ779s",
+            "name": "Masayoshi Takanaka - Seychelles (1976) Album-kG3MlvQ779s.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Masayoshi Takanaka - Seychelles (1976) Album-kG3MlvQ779s.mp4",
+            "size": 51.555735999999996,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Masayoshi Takanaka - Seychelles (1976) Album-kG3MlvQ779s.mp4?raw=true"
+        },
+        {
+            "id": "_K-ZGgimb_g",
+            "name": "Al Bowlly - Did You Ever See A Dream Walking 1933 Ray Noble - From the film 'Sitting Pretty'-_K-ZGgimb_g.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Al Bowlly - Did You Ever See A Dream Walking 1933 Ray Noble - From the film 'Sitting Pretty'-_K-ZGgimb_g.mp4",
+            "size": 3.194654,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Al Bowlly - Did You Ever See A Dream Walking 1933 Ray Noble - From the film 'Sitting Pretty'-_K-ZGgimb_g.mp4?raw=true"
+        },
+        {
             "id": "3pcRYXCajqI",
             "name": "Liszt - Concerto Path\u00e9tique in E minor - 3. Allegro-3pcRYXCajqI.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Liszt - Concerto Path\u00e9tique in E minor - 3. Allegro-3pcRYXCajqI.mp4",
@@ -44,12 +72,26 @@
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Liszt - Concerto Path\u00e9tique in E minor - 3. Allegro-3pcRYXCajqI.mp4?raw=true"
         },
         {
+            "id": "tkNh8-YE6Fk",
+            "name": "Wolfgang Amadeus Mozart - Symphony No.25 in G minor, KV.183_173dB (1773)-tkNh8-YE6Fk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Wolfgang Amadeus Mozart - Symphony No.25 in G minor, KV.183_173dB (1773)-tkNh8-YE6Fk.mp4",
+            "size": 36.462136,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Wolfgang Amadeus Mozart - Symphony No.25 in G minor, KV.183_173dB (1773)-tkNh8-YE6Fk.mp4?raw=true"
+        },
+        {
             "id": "5SD4lI9GKUE",
             "name": "Deacon Blue - Real Gone Kid (Official Video)-5SD4lI9GKUE.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Deacon Blue - Real Gone Kid (Official Video)-5SD4lI9GKUE.mp4",
             "size": 14.839616999999999,
             "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Deacon Blue - Real Gone Kid (Official Video)-5SD4lI9GKUE.mp4?raw=true"
+        },
+        {
+            "id": "G2nIDKY6zJY",
+            "name": "Liszt - Totentanz, S. 525-G2nIDKY6zJY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/c4/videos/Liszt - Totentanz, S. 525-G2nIDKY6zJY.mp4",
+            "size": 9.826172999999999,
+            "url": "https://github.com/circuitalmynds/music_c4/blob/main/videos/Liszt - Totentanz, S. 525-G2nIDKY6zJY.mp4?raw=true"
         }
     ],
-    "total_size": 131.357046
+    "total_size": 239.83180099999998
 }
